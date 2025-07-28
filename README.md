@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oleg Zhovtanskyi</h1>
-<h3 align="center">A newbie IOS Developer from Ukraine 🇺🇦</h3>
+<h3 align="center">A newbie IOS Developer</h3>
 
 - 🔭 I’m currently working on **self-improvement**
 
