@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Oleg Zhovtanskyi</h1>
-<h3 align="center">Data Analyst | Business Intelligence Specialist</h3>
+<h3 align="center">Data Analyst | Power BI</h3>
 <p align="center">
   <em>Converting raw data into business insights. Based in Opole, Poland.</em>
 </p>
 
 <p align="center">
 <a href="mailto:o.zhovtanskyi@gmail.com"><img src="https://img.shields.io/badge/Email-o.zhovtanskyi%40gmail.com-red?style=flat-square&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/ТВІЙ_ЛІНКЕДІН/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+<!--- <a href="https://www.linkedin.com/in/ТВІЙ_ЛІНКЕДІН/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a> --->
 </p>
 
 ---
