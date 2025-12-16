@@ -48,12 +48,10 @@ Previously, I explored **iOS Development (Swift)**, which gave me a strong found
 </p>
 
 ---
-
 ### 📊 Github Stats
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=OlegZhovtanskyi&show_icons=true&theme=radical&hide_border=true" alt="Oleg's Github Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlegZhovtanskyi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=OlegZhovtanskyi&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="Oleg's Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlegZhovtanskyi&layout=compact&theme=radical&hide_border=true&cache_seconds=86400&langs_count=6" alt="Top Languages" />
 </p>
 <!---
 OlegZhovtanskyi/OlegZhovtanskyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
